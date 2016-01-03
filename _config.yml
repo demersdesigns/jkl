@@ -8,7 +8,7 @@ title:               overflow:auto
 tagline:             The notebook of demersdesigns
 url:                 http://demersdesigns.com
 paginate:            1
-baseurl:             ""
+baseurl:             "http://demersdesigns.github.io/jkl/"
 
 # Assets
 #
