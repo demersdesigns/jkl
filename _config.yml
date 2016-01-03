@@ -4,11 +4,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               overflow:auto
+tagline:             The notebook of demersdesigns
+url:                 http://demersdesigns.com
 paginate:            1
-baseurl:             "http://demersdesigns.github.io/jkl/"
+baseurl:             ""
 
 # Assets
 #
